@@ -2,6 +2,7 @@
 
 - 🌱 Eu estou atualmente cursando Ciências da Computação
 - 📧 Email para contato: nicolasdaldega@gmail.com
+- 📚 Busco novos aprendizados nesta área
 
 <div align="center">
   <a href="https://github.com/nicolasdaldegan">
