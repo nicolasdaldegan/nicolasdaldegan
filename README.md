@@ -1,14 +1,13 @@
 ### Eii! Eu sou Nicolas Daldegan 👋
-
-- 🌱 Eu estou atualmente cursando Ciências da Computação
-- 📧 Email para contato: nicolasdaldega@gmail.com
-- 📚 Busco novos aprendizados nesta área
-
 <div align="center">
   <a href="https://github.com/nicolasdaldegan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasdaldegan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdaldegan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+- 🌱 Eu estou atualmente cursando Ciências da Computação
+- 📧 Email para contato: nicolasdaldega@gmail.com
+- 📚 Busco novos aprendizados nesta área
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
