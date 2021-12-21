@@ -3,10 +3,10 @@
 -👨‍🎓 Estou atualmente cursando Ciências da Computação <br>
 -📧 Email para contato: nicolasdaldega@gmail.com <br>
 -📚 Sempre buscando novos aprendizados nesta área <br>
-<div align="center">
+<div>
   <a href="https://github.com/nicolasdaldegan">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nicolasdaldegan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdaldegan&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=nicolasdaldegan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="right" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdaldegan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Daldega-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
