@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/nicolasdaldegan/nicolasdaldegan/main/profile-summary-card-output/zenburn/4-productive-time.svg)
+```
+
+    
