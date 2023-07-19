@@ -12,7 +12,7 @@
   <img align="center" alt="Daldega-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Daldega-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daldega-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Daldega-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/691128514685960202/922883070011519026/187719011_154934486598440_6869408609890839796_n.jpg">
+  
   
 </div>
   
