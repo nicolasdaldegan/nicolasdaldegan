@@ -1,6 +1,6 @@
 ### Eii! Eu sou Nicolas Daldegan 👋
 ##
--👨‍🎓 Estou atualmente cursando Ciências da Computação <br>
+-👨‍🎓 Sou formado em Ciência da Computação e trabalho atualmente com Desenvolvimento Salesforce, Java e .NET C# <br>
 -📧 Email para contato: nicolasdaldega@gmail.com <br>
 -📚 Sempre buscando novos aprendizados nesta área <br>
 <div>
